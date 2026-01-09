@@ -1,0 +1,41 @@
+# Web框架
+streamlit>=1.28.0
+
+# 数据库
+mysql-connector-python>=8.2.0
+pymysql>=1.1.0
+sqlalchemy>=2.0.0
+
+# AI能力 - 通义千问
+dashscope>=1.14.0
+
+# 数据采集
+playwright>=1.40.0
+
+# 浏览器自动化 - Selenium
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Excel操作
+openpyxl>=3.1.2
+pandas>=2.1.0
+
+# 物流API
+requests>=2.31.0
+httpx>=0.25.0
+
+# 微信推送
+wxpy>=0.3.9.8
+
+# 数据验证
+pydantic>=2.5.0
+
+# 测试框架
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+hypothesis>=6.92.0
+
+# 工具库
+python-dotenv>=1.0.0
+loguru>=0.7.0
